@@ -2,7 +2,7 @@
 A Teacher Utility Developed in Ruby
 By Christopher Farrant
 
-#Information
+# Information
 You can manually create class lists using this format:
 {Last Name}, {First Name}
 Check the Example List (ALSO IN THIS FOLDER)
